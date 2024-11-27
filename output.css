@@ -1,0 +1,44 @@
+.sec{
+    height:5%;
+    margin-left:5%;
+    margin-top: 3%;
+    display: flex;
+}
+.ser{
+    
+    
+    height: 5%;
+    width: 100%;
+    margin-left: 2%;
+    margin-top: 1%;
+    
+
+}
+#search{
+    width: 50%;
+    height: 7%;
+    border-color: black;
+    border-radius: 10px;
+
+}
+.btn{
+    width: 20%;
+    padding: 8px 20px;
+            margin: 7px 3px;
+            border: 2px solid black;
+            font-size: 15px;
+            border-radius: 10px;    
+            background: none;
+            color:black;
+     
+           cursor: pointer;    
+}
+.fdata{
+    margin-top: 20px;
+    margin-left: 5%;
+    height: 200px;
+    width: 180px;
+    border: solid black ;
+    border-radius: 20px;
+}
+
